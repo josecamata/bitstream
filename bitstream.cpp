@@ -11,7 +11,19 @@ bitStream::bitStream():
 {
 }
 
+// TODO: implementar o método setBit.
+void bitStream::setBit(uint8_t pos, uint8_t bit)
+{
 
+    
+}
+
+// TODO: implementar o método getBit.
+uint8_t bitStream::getBit(uint8_t k)
+{
+
+
+}
 
 
 outPutBitStream::outPutBitStream(const char* filename):
